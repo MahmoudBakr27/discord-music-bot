@@ -13,3 +13,13 @@ async def ping(ctx):
 
 
 client.run("#put_the_bot_token_here")    
+
+
+
+
+
+
+
+
+
+
